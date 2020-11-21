@@ -1,5 +1,5 @@
 <?php
 
-echo "hellowww word";
+echo "hw word";
 
 ?>
